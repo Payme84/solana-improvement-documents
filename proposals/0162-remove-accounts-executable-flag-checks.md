@@ -1,6 +1,6 @@
 ---
 simd: '0162'
-title: Remove Accounts `is_executable` Flag Checks
+title: Remove Accounts `invoke` Flag Checks
 authors:
   - Alexander Meißner
 category: Standard
